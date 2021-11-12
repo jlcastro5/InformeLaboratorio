@@ -7,7 +7,8 @@
 
    Objetivos específicos
    
-   *  Analizar mediante las leyes kichhoff el voltaje y corriente que pasa por el circuito mixto el cual trabajaremos aplicando los conocmientos adquiridos para encontrar su valor respectivamente en cada componente del circuito.
+   * Recrear los circuitos eléctricos en Tinkercad, el cual no solo permite obtener resultados más exactos, sino que también proporciona una experiencia muy similar a la de crear un circuito mixto dentro de un laboratorio físico.
+   * Aplicar los conocimientos obtenidos en clases y mediante la auto enseñanza resolver dificultades que se presenten dentro del tema de Leyes de Kirchhoff
    
 2. MARCO TEORICO
 
