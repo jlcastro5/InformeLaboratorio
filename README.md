@@ -134,6 +134,9 @@
    
    ![](https://github.com/jlcastro5/InformeLaboratorio/blob/aa0f66644ed6479c914f0355c0a655f5d79d95b1/ccccc.PNG)
    
+   ![](https://github.com/jlcastro5/InformeLaboratorio/blob/602c32e42d3df379e6e502d223f20cccf28dcae0/1.09.PNG)
+   
+   
    Figura 15. Mediciones de corriente
    
     
@@ -175,7 +178,7 @@
       son 5 resistencias, y cada nodo respectivamente tiene su corriente, Luego realizamos el proceso para hallar la Sumatoria
       de entrada y salida de corriente por la ley de kichhoff de corrientes.
        
-      ![](https://github.com/jlcastro5/InformeLaboratorio/blob/0105cfc7a719e2a45046ff21f21245d65b3168b1/taBLA3.PNG)
+      ![](https://github.com/jlcastro5/InformeLaboratorio/blob/455ecff49ccd0c06bc561fe807ce454fc521b470/ce.PNG)
       
        
       Ahora encontramos los valores para la tabla de corriente el cual para este proceso aplicaremos las leyes de kichhoff
